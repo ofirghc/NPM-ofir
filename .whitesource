@@ -5,7 +5,7 @@
     "projectToken": "",
     "baseBranches": []
   },
-  "checkRunSettings": {
+  "checkRunSettings": { 
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true
