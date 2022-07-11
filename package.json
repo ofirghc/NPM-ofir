@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": { 
-    "shadowizardy": "^1.0.0",
+    "shadowizardy": "^1.0.0", 
     "yargs-parser": "9.0.2",
 	"cli-spinner": "^0.2.10",
     "cli-table3": "^0.5.1",
