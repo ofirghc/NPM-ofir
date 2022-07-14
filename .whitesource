@@ -10,7 +10,7 @@
     "displayMode": "diff",
     "useMendCheckNames": true
   },
-  "issueSettings": {
+  "issueSettings": { 
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
   },
